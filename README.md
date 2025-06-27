@@ -17,6 +17,7 @@ Repositório com resoluções de problemas de dividir e conquistar do [LeetCode]
 | -- | -- | -- |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Hard | [Código](./exercises/4_Hard/README.md) |
 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | Hard | [Código](./exercises/315_Hard/README.md) |
+| [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | Hard | [Código](./exercises/493_Hard/README.md) |
 
 ## Apresentação
 *Link da apresentação:* [Apresentação]()
