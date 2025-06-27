@@ -20,7 +20,7 @@ Repositório com resoluções de problemas de dividir e conquistar do [LeetCode]
 | [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | Hard | [Código](./exercises/493_Hard/README.md) |
 
 ## Apresentação
-*Link da apresentação:* [Apresentação]()
+*Link da apresentação:* [Apresentação](https://youtu.be/gFyFRz66XRc)
 
 ## Uso 
 Para executar o trabalho basta abrir o link do exercício e copiar e colar o código. Utilize a interface para testar os códigos com os testcases existentes ou personalize-os.
